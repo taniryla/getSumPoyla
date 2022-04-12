@@ -1,0 +1,2 @@
+# getSumPoyla
+Created with CodeSandbox
